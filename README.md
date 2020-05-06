@@ -2,10 +2,10 @@
 Red Hat Certified System Administrator(RHCSA) Exam(EX200)
 
 ## 시험 신청
-신청 주소: https://www.redhat.com/ko/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam
-응시료: ₩ 420,000 (엄청나게 비싸다!)
+* 신청 주소: https://www.redhat.com/ko/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam
+* 응시료: ₩ 420,000 (엄청나게 비싸다!)
 
-###시험 목표 (RedHat 홈페이지 발췌)
+### 시험 목표 (RedHat 홈페이지 발췌)
 1. 필수 툴 이해 및 사용
     - 셸 프롬프트에 액세스하고 올바른 구문으로 커맨드 실행
     - 입력-출력 리디렉션(>, >>, |, 2> 등) 사용
