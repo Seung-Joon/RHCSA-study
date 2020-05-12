@@ -22,9 +22,21 @@ hostname #설정내용 확인
 ```
 
 ## 3. 레포지토리 설정하기
-- 커멘드 라인
-    ```
-    vi /etc/yum.repos.d/(생성할 파일 이름).repo
-    ```
-
+- 터미널
+  ```
+  vi /etc/yum.repos.d/(생성할 파일 이름).repo
+  ```
+- 편집기
+  ```
+  [(생성한 이름)]
+  name=server
+  baseurl=(레포지토리 주소)
+  enabled=1
+  gpgchk=0
+  ```
+- 터미널
+  ```
+  yum clean all
+  yum repolist
+  ```
 
