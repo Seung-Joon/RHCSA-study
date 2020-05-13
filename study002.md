@@ -6,6 +6,11 @@ IP/Netmask: 172.24.11.10/24
 Default route: 172.24.11.254
 dns: 172.24.11.250
 ```
+## yum repository 설정하기
+```
+Base Url: http://nginx.org/packages/centos/7/$basearch/
+```
+
 
 ## 1. 네트워크 설정하기
 - GUI로 설정하기
@@ -23,7 +28,7 @@ hostname #설정내용 확인
 
 ## 3. 레포지토리 설정하기
 - 터미널
-  ```
+  ```git 
   vi /etc/yum.repos.d/(생성할 파일 이름).repo
   ```
 - 편집기
