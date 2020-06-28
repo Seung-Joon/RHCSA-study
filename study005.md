@@ -32,7 +32,18 @@
 
   [root@station]# mount -a # 모든 내용에 대한 마운트 적용
   [root@station]# mount | grep fstab    # 마운트 확인
+  ```
+
+## 4. 마운트 확인
+  ```
+  [root@station]# cd /mnt/point    
+  [root@station]# echo "Hello World" > test.txt
+  [root@station]# cat test.txt # 내용 확인
+  Hello World
 
   [root@station]# reboot    # 재부팅
   [root@station]# mount | grep fstab    # 마운트 확인
+
+  [root@station]# cat /mnt/point/test.txt # 재부팅 후 마운트 포인트의 내용이 잘 유지되어 있는지 확인하자.
+  Hello World 
   ```
