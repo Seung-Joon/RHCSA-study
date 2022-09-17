@@ -12,9 +12,8 @@ Red Hat Certified System Administrator(RHCSA) Exam(EX200)
 
 ## 결과 (2020.06.19)
 - 성수 노브레이크에서 시험봤다.
-- 늦장부리다가 오는거 맞냐고 전화왔다.
-- 300점 만점에 300점으로 합격했다. (좀멋진듯)  
-- 시험 당일 오후 8시쯤 결과가 나왔다. (엄청 빠르다.)  
+- 300점 만점에 300점으로 합격했다. 
+- 시험 당일 오후 8시쯤 결과가 나왔다.  
   <br/>
   <img src="img/pic7.png" width="80%"/>
   <img src="img/pic8.png" width="80%"/>  
